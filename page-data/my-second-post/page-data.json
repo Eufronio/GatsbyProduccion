@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/my-second-post/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Gatsby Blog "}},"markdownRemark":{"id":"144a519b-c452-505f-ab29-83b2c13719a3","excerpt":"Wow! esto es un nuevo comiezo.","html":"<p>Wow! esto es un nuevo comiezo.</p>","frontmatter":{"title":"My segundo post !","date":"September 12, 2021","description":null}},"previous":{"fields":{"slug":"/hello-world/"},"frontmatter":{"title":"Mi primer Post"}},"next":{"fields":{"slug":"/new-beginnings/"},"frontmatter":{"title":"Nuevos Comienzos"}}},"pageContext":{"id":"144a519b-c452-505f-ab29-83b2c13719a3","previousPostId":"3063313c-5057-5a6f-a2fc-b317bf2f26ec","nextPostId":"075f1b10-bb54-5093-b4cf-ed52435bd8ed"}},
+    "staticQueryHashes": ["2841359383","3257411868"]}

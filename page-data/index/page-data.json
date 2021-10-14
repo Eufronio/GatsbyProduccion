@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-index-js",
+    "path": "/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Gatsby Blog "}},"allMarkdownRemark":{"nodes":[{"excerpt":"Far far away, behind the word mountains, far from the countries Vokalia and\r\nConsonantia, there live the blind texts. Separated they live in…","fields":{"slug":"/new-beginnings/"},"frontmatter":{"date":"October 14, 2021","title":"Nuevos Comienzos","description":"Lo grande que es aprender cosas nuevas!."}},{"excerpt":"Wow! esto es un nuevo comiezo.","fields":{"slug":"/my-second-post/"},"frontmatter":{"date":"September 12, 2021","title":"My segundo post !","description":null}},{"excerpt":"This is my first post on my new fake blog! How exciting! I’m sure I’ll write a lot more interesting things in the future. Oh, and here’s a…","fields":{"slug":"/hello-world/"},"frontmatter":{"date":"January 01, 2021","title":"Mi primer Post","description":"Creando un nuevo post para el sitio"}}]}},"pageContext":{}},
+    "staticQueryHashes": ["2841359383","3257411868"]}
