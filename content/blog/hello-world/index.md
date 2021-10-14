@@ -1,7 +1,7 @@
 ---
-title: Hello World
-date: "2015-05-01T22:12:03.284Z"
-description: "Hello World"
+title: Mi primer Post
+date: "2021-01-01T22:12:03.284Z"
+description: "Creando un nuevo post para el sitio"
 ---
 
 This is my first post on my new fake blog! How exciting!
